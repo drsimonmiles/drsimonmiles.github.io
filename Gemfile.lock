@@ -244,6 +244,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-theme-slate (~> 0.1.1)
+  minima
 
 BUNDLED WITH
    2.1.4
